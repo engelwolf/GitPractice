@@ -6,6 +6,7 @@
 
 int main(void)
 {
+	printf("HELLO DSE");
 	return 0;
 }
 
