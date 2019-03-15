@@ -1,8 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 #define VARIABLE  0
 #define VARIABLE2 1
+#define VARIABLE3 2
+#define VARIABLE4 3
 
 int main(void)
 {
